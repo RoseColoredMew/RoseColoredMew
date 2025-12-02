@@ -85,7 +85,7 @@
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="RoseColoredMew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseColoredMew&layout=compact&langs_count=10&theme=material-palenight&hide_border=true" />
+    <img alt="RoseColoredMew's Top Languages" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/top-langs/?username=RoseColoredMew&layout=compact&langs_count=10&theme=material-palenight&hide_border=true&v=4">
     </a>
   </p>
 
@@ -100,22 +100,34 @@
   <summary><h2>💜 My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/RoseColoredMew/wunderlust"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=wunderlust&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Wunderlust"></a>
-    <a href="https://github.com/RoseColoredMew/GIT480Final"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=GIT480Final&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="GIT480Final"></a>
-    <a href="https://github.com/RoseColoredMew/DriveTime"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=DriveTime&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="DriveTime"></a>
+    <a href="https://github.com/RoseColoredMew/wunderlust">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=wunderlust&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Wunderlust">
+    </a>
+    <a href="https://github.com/RoseColoredMew/GIT480Final">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=GIT480Final&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="GIT480Final">
+    </a>
+    <a href="https://github.com/RoseColoredMew/DriveTime">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=DriveTime&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="DriveTime">
+    </a>
   </p>
 
   <p align="left">
-    <a href="https://github.com/RoseColoredMew/photography"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=photography&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Photography"></a>
-    <a href="https://github.com/RoseColoredMew/streamingmedia"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=streamingmedia&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Streaming Media"></a>
-    <a href="https://github.com/RoseColoredMew/recipe"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=recipe&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Recipe"></a>
+    <a href="https://github.com/RoseColoredMew/photography">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=photography&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Photography">
+    </a>
+    <a href="https://github.com/RoseColoredMew/streamingmedia">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=streamingmedia&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Streaming Media">
+    </a>
+    <a href="https://github.com/RoseColoredMew/recipe">
+      <img width="278" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api/pin/?username=RoseColoredMew&repo=recipe&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF&" alt="Recipe">
+    </a>
   </p>
-  
-  <a href="https://github.com/RoseColoredMew?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-1F1F1F?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
 
+  <a href="https://github.com/RoseColoredMew?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-1F1F1F?style=for-the-badge&logoColor=white&logo=repo">
+  </a>
 </details>
+
 
 <details open>
   <summary><h2>🕸️ Connect with Me</h2></summary>
@@ -146,8 +158,8 @@
 
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
-    <img alt="RoseColoredMew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RoseColoredMew&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="RoseColoredMew's GitHub Stats" src="https://github-readme-stats-eg3medt6q-abraham-mendezs-projects-2130aaa2.vercel.app/api?username=RoseColoredMew&show_icons=true&theme=material-palenight&hide_border=true&count_private=true">
   </a>
 
 
