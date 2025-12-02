@@ -85,7 +85,7 @@
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="RoseColoredMew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amende59&layout=compact&langs_count=10&theme=material-palenight&hide_border=true" />
+      <img alt="RoseColoredMew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseColoredMew&layout=compact&langs_count=10&theme=material-palenight&hide_border=true" />
     </a>
   </p>
 
@@ -100,15 +100,15 @@
   <summary><h2>💜 My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/amende59/wunderlust"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=wunderlust&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Wunderlust"></a>
-    <a href="https://github.com/amende59/GIT480Final"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=GIT480Final&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="GIT480Final"></a>
-    <a href="https://github.com/amende59/DriveTime"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=DriveTime&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="DriveTime"></a>
+    <a href="https://github.com/RoseColoredMew/wunderlust"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=wunderlust&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Wunderlust"></a>
+    <a href="https://github.com/RoseColoredMew/GIT480Final"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=GIT480Final&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="GIT480Final"></a>
+    <a href="https://github.com/RoseColoredMew/DriveTime"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=DriveTime&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="DriveTime"></a>
   </p>
 
   <p align="left">
-    <a href="https://github.com/amende59/photography"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=photography&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Photography"></a>
-    <a href="https://github.com/amende59/streamingmedia"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=streamingmedia&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Streaming Media"></a>
-    <a href="https://github.com/amende59/recipe"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=amende59&repo=recipe&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Recipe"></a>
+    <a href="https://github.com/RoseColoredMew/photography"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=photography&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Photography"></a>
+    <a href="https://github.com/RoseColoredMew/streamingmedia"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=streamingmedia&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Streaming Media"></a>
+    <a href="https://github.com/RoseColoredMew/recipe"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=RoseColoredMew&repo=recipe&theme=material-palenight&bg_color=1F1F1F&title_color=8662F7&hide_border=true&icon_color=F8AFAF" alt="Recipe"></a>
   </p>
   
   <a href="https://github.com/RoseColoredMew?tab=repositories&sort=stargazers">
